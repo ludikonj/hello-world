@@ -1,2 +1,2 @@
 # hello-world
-konj trchi kroz svet
+konj trchi kroz cvet
